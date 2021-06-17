@@ -25,6 +25,9 @@
 ## About
 The **Discord Airdrop Bot** 💰 helps you to manage your airdrops on ERC-20, BEP-20 etc. tokens.
 
+### Telegram Airdrop Bot
+I have also published a similar bot for Telegram. You can find it [here](https://github.com/fabston/Telegram-Airdrop-Bot).
+
 
 ## Features
 - Check if a correct ERC-20 address has been provided
